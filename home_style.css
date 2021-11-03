@@ -1,0 +1,27 @@
+#judul_web{
+    text-align: center;
+    color: white;
+}
+body{
+ background-image: url("maxresdefault.jpg");
+
+}
+#resmi{
+  text-align:center;
+  color: white;
+}
+#web_koding{
+  color: white;
+}
+.judul{
+  display: inline;
+}
+.link{
+  color:white;
+}
+.link:hover{
+            color: red;
+}
+.link:visited:{
+            color: yellow;
+ }
